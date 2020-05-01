@@ -29,5 +29,6 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
-3. Run in Kubernetes:  `./run_kubernetes.sh` locally will be necessary to run ``minikube tunnel`` to be create an external ip to the load balancer
+3. Run in Kubernetes:  `./run_kubernetes.sh` locally will be necessary to run ``minikube tunnel`` in a different terminal in order to be create an external ip to the load balancer.
+
 
