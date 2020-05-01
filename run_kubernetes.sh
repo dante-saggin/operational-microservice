@@ -23,8 +23,8 @@ done
 
 # Step 4:
 # Forward the container port to a host
-
-kubectl create -f loadbalancer.yaml
+#kubectl create -f loadbalancer.yaml
+#Will list external ip
 external_ip=""
 while [ -z $external_ip ]; do
   echo "Waiting for end point..."
