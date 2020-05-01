@@ -1,6 +1,4 @@
-[![<dante-saggin/>](https://circleci.com/gh/dante-saggin/operational-microservice
-svg?style=svg)](https://github.com/dante-saggin/operational-microservice)
-
+[![CircleCI](https://circleci.com/gh/dante-saggin/operational-microservice.svg?style=svg)](https://circleci.com/gh/dante-saggin/operational-microservice)
 
 
 ### Project Tasks
