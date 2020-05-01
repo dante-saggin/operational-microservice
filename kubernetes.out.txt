@@ -1,0 +1,19 @@
+Dantes-MacBook-Pro-2:operational-microservice DanteSaggin$ ./run_kubernetes.sh 
+deployment.apps/prediction-microservice created
+NAME                                       READY   STATUS              RESTARTS   AGE
+prediction-microservice-6ff6786f6c-r5f6j   0/1     ContainerCreating   0          0s
+waiting for pod
+NAME                                       READY   STATUS              RESTARTS   AGE
+prediction-microservice-6ff6786f6c-r5f6j   0/1     ContainerCreating   0          2s
+waiting for pod
+NAME                                       READY   STATUS              RESTARTS   AGE
+prediction-microservice-6ff6786f6c-r5f6j   0/1     ContainerCreating   0          3s
+waiting for pod
+NAME                                       READY   STATUS    RESTARTS   AGE
+prediction-microservice-6ff6786f6c-r5f6j   1/1     Running   0          4s
+service/prediction-microservice created
+Waiting for end point...
+Waiting for end point...
+End point ready:
+127.0.0.1
+
